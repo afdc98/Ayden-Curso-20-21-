@@ -1,4 +1,4 @@
-## (Nombre del proyecto)  
+## (otro otro nombre)  
 
 (Plantilla para la creación de un proyecto Multimedia Interactivo)
 
