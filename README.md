@@ -15,7 +15,7 @@ Univesidad de Granada
 
 **logotipo** :
 
-![Image of Yaktocat]()
+![Logotipo](https://user-images.githubusercontent.com/20681504/115731998-e2728300-a387-11eb-9a78-6af3184c8de9.png)
 
 **Slogan** (frase motivadora/inspiradora): ________
 
@@ -23,10 +23,11 @@ Univesidad de Granada
 
 **Licencia**    (usar una creative commons: revisar en https://creativecommons.org/licenses/?lang=es_ES) 
 
-**Fecha** : 2020
+**Fecha** : 2021
 
 **Medios** (donde se tiene presencia): 
 
+Juego interactivo reproducible en PC, Android y navegador
 
 *  :octocat: (github url) 
 * Twitter 
