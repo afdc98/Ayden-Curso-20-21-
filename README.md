@@ -1,6 +1,4 @@
-## (otro otro nombre)  
-
-(Plantilla para la creación de un proyecto Multimedia Interactivo)
+## Proyecto Ayden realizado con RPG Maker MV 
 
 Proyecto de [Creación Multimedia y Periodismo Multiplataforma](https://github.com/mgea/PeriodismoMultimedia)
 Master de Nuevos medios interactivos y periodismo multimedia
@@ -9,13 +7,15 @@ Univesidad de Granada
 
 ----
 
-**Titulo** : _______
+**Titulo** : Ayden
 
-**Autor(es)** ______________
+**Autor(es)** Pablo Avilés
 
 **Resumen** : _________
 
-**logotipo** :  ________
+**logotipo** :
+
+![Image of Yaktocat]()
 
 **Slogan** (frase motivadora/inspiradora): ________
 
