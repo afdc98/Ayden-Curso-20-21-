@@ -7,27 +7,27 @@ Univesidad de Granada
 
 ----
 
-**Titulo**: Ayden
+**Titulo** : Ayden
 
 **Autor(es)** Pablo Avilés
 
-**Resumen**: El joven Ayden aparece de repente en Aloira, un mundo lleno de lugares fantásticos y personajes extravagantes. Allí, Ayden tendrá que tomar una serie de decisiones que determinarán quiénes serán sus amigos y enemigos, explorando cada uno de los bosques y cuevas de Aloira en busca de pistas alrededor de una mujer que se le aparece de tanto en tanto, y a la que vagamente recuerda. Los paisajes retro en 8 bit, llenos de puzzles y secretos, serán la clave para entender el secreto que rodea a este joven, un misterio que, aunque no lo parezca, es mucho más cercano a él de lo que parece a simple vista.
+**Resumen** : El joven Ayden aparece de repente en Aloira, un mundo lleno de lugares fantásticos y personajes extravagantes. Allí, Ayden tendrá que tomar una serie de decisiones que determinarán quiénes serán sus amigos y enemigos, explorando cada uno de los bosques y cuevas de Aloira en busca de pistas alrededor de una mujer que se le aparece de tanto en tanto, y a la que vagamente recuerda. Los paisajes retro en 8 bit, llenos de puzzles y secretos, serán la clave para entender el secreto que rodea a este joven, un misterio que, aunque no lo parezca, es mucho más cercano a él de lo que parece a simple vista.
 
-**Logotipo**:
+**Logotipo** :
 
 ![Logotipo](https://user-images.githubusercontent.com/20681504/115731998-e2728300-a387-11eb-9a78-6af3184c8de9.png)
 
-**Slogan**: Los secretos más profundos se encuentran en el fondo de nuestros corazones.
+**Slogan** : Los secretos más profundos se encuentran en el fondo de nuestros corazones.
 
-**Hashtag**: #Misterio #Fantasía #Suspense #Secreto #Filosofía #Reflexión
+**Hashtag** : #Misterio #Fantasía #Suspense #Secreto #Filosofía #Reflexión
 
-**Licencia**: 
+**Licencia** : 
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
 
-**Fecha**: 2021
+**Fecha** : 2021
 
-**Medios**: 
+**Medios** (donde se tiene presencia): 
 
 * Juego interactivo reproducible en PC, Android y navegador
 * Twitter:
