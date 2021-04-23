@@ -1,7 +1,0 @@
-[
-null,
-{"id":1,"animationId":0,"consumable":false,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[{"code":44,"dataId":1,"value1":1,"value2":0}],"hitType":0,"iconIndex":300,"itypeId":2,"name":"Fragmento Irisado","note":"","occasion":2,"price":50,"repeats":1,"scope":0,"speed":0,"successRate":100,"tpGain":0},
-{"id":2,"animationId":0,"consumable":false,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[{"code":44,"dataId":2,"value1":1,"value2":0}],"hitType":0,"iconIndex":197,"itypeId":2,"name":"Juguete Roto","note":"","occasion":2,"price":50,"repeats":1,"scope":0,"speed":0,"successRate":100,"tpGain":0},
-{"id":3,"animationId":0,"consumable":false,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[{"code":44,"dataId":3,"value1":1,"value2":0}],"hitType":0,"iconIndex":147,"itypeId":2,"name":"Broche de oro","note":"","occasion":2,"price":50,"repeats":1,"scope":0,"speed":0,"successRate":100,"tpGain":0},
-{"id":4,"animationId":0,"consumable":false,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[{"code":44,"dataId":4,"value1":1,"value2":0}],"hitType":0,"iconIndex":305,"itypeId":2,"name":"Piedra luminosa","note":"","occasion":2,"price":50,"repeats":1,"scope":0,"speed":0,"successRate":100,"tpGain":0}
-]
