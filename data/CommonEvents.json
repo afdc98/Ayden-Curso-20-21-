@@ -1,0 +1,7 @@
+[
+null,
+{"id":1,"list":[{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["Un fragmento brillante que ha dejado un"]},{"code":401,"indent":0,"parameters":["fantasma del pasado. Uso desconocido."]},{"code":0,"indent":0,"parameters":[]}],"name":"Fragmento","switchId":1,"trigger":0},
+{"id":2,"list":[{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["Juguete en un estado deplorable."]},{"code":401,"indent":0,"parameters":["Encontrado en las cuevas de Aloira."]},{"code":0,"indent":0,"parameters":[]}],"name":"Juguete Roto","switchId":1,"trigger":0},
+{"id":3,"list":[{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["Broche dorado de la Dama."]},{"code":401,"indent":0,"parameters":["Me lo dio en las cuevas de Aloira."]},{"code":0,"indent":0,"parameters":[]}],"name":"Broche","switchId":1,"trigger":0},
+{"id":4,"list":[{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["Una piedra luminosa encontrada en las"]},{"code":401,"indent":0,"parameters":["cuevas de Aloira. Parece que sirve para algo..."]},{"code":0,"indent":0,"parameters":[]}],"name":"Piedra","switchId":1,"trigger":0}
+]
