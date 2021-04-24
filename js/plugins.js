@@ -4,7 +4,7 @@ var $plugins =
 [
 {"name":"Community_Basic","status":true,"description":"Basic plugin for manipulating important parameters.","parameters":{"cacheLimit":"20","screenWidth":"816","screenHeight":"624","changeWindowWidthTo":"","changeWindowHeightTo":"","renderingMode":"auto","alwaysDash":"off"}},
 {"name":"MadeWithMv","status":false,"description":"Show a Splash Screen \"Made with MV\" and/or a Custom Splash Screen before going to main screen.","parameters":{"Show Made With MV":"true","Made with MV Image":"MadeWithMv","Show Custom Splash":"false","Custom Image":"","Fade Out Time":"120","Fade In Time":"120","Wait Time":"160"}},
-{"name":"Yami_skiptitle","status":false,"description":"Skip the title scene for testing purpose.","parameters":{}},
+{"name":"CustomOption","status":true,"description":"","parameters":{}},
 {"name":"KhasCore","status":true,"description":"[2.0] Required by Khas plugins.","parameters":{}},
 {"name":"KhasGraphics","status":true,"description":"[1.1] Required by Khas graphics plugins.","parameters":{}},
 {"name":"KhasHintSystem","status":true,"description":"[1.0] Hint/Tutorial System","parameters":{"Font name":"GameFont","Font size":"16","Title bold":"OFF","Title italic":"OFF","Message bold":"OFF","Message italic":"OFF","Title color":"#ff9009","Message color":"#ffffff","Background color":"#000000","Background opacity":"70","Maximum width":"192","Margin":"4","Range":"192","Fade":"96"}},

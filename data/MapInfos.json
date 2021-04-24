@@ -1,7 +1,7 @@
 [
 null,
-{"id":1,"expanded":false,"name":"Dark Room","order":1,"parentId":0,"scrollX":1582.6666666666667,"scrollY":490.6666666666667},
-{"id":2,"expanded":true,"name":"Initial Cave","order":2,"parentId":0,"scrollX":1414.6666666666667,"scrollY":490.6666666666667},
-{"id":3,"expanded":false,"name":"Forest","order":4,"parentId":0,"scrollX":832,"scrollY":640},
-{"id":4,"expanded":false,"name":"Cave subarea","order":3,"parentId":2,"scrollX":1102,"scrollY":378.6666666666667}
+{"id":1,"expanded":false,"name":"Dark Room","order":1,"parentId":0,"scrollX":2797,"scrollY":368},
+{"id":2,"expanded":true,"name":"Initial Cave","order":2,"parentId":0,"scrollX":1653,"scrollY":988},
+{"id":3,"expanded":false,"name":"Forest","order":4,"parentId":0,"scrollX":659,"scrollY":376},
+{"id":4,"expanded":false,"name":"Cave subarea","order":3,"parentId":2,"scrollX":877,"scrollY":368}
 ]
