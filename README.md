@@ -92,9 +92,7 @@ Capturas promocionales. Sacadas del propio videojuego realizado en RPG Maker MV.
 
 **Tema principal de cueva**
 
-		<iframe src="https://chirb.it/wp/mqhxGG" width=380 scrolling="NO" frameborder=0>If you can not see this chirbit, listen to it here https://chirb.it/mqhxGG</iframe>
-		<br/>
-		<a href="https://chirb.it/mqhxGG" title="Ayden - Cave Theme | social audio" style="font-family:helvetica,arial,sans-serif;font-size:8pt;text-align:left;margin:5px;">Check this out on Chirbit</a>
+https://chirb.it/mqhxGG
 	
 Uso de soundraw.io y Chirbit.
 
@@ -111,47 +109,25 @@ Perfil en Twitter: https://twitter.com/AydenVideogame
 ### Conclusiones y trabajo futuro
 
 * **Grado de consecución del proyecto**: El proyecto funciona ahora mismo como un prototipo. La intención es obtener feedback respecto a los puzzles que se encuentran presentan en la cueva inicial y mejorar la calidad de los puzzles de aquí en adelante. También se encuentra en progreso un **modo difícil** de la primera estancia, pensado para jugarlo después de la primera partida.
-* Problemas identificados  (técnicos / sobre la idea inicial / planificacion… ) 
-* Propuestas de mejora (por qué consideras que merece la pena continuar)
-* Posible interés del proyecto (¿ Quien podría  colaborar / involucrarse en el proyecto? ¿viable?)
 
+* **Problemas identificados**: A pesar de la posibilidad de exportar el proyecto a Android desde RPG Maker MV, me he encontrado con la imposibilidad de realizarlo debido a incompatibilidades con los scripts propios del videojuego. También me hubiera gustado saber un poco más de Javascript (el lenguaje de programación que utiliza la plataforma) para poder editar más a mi gusto ciertas partes más referidas a los sistemas internos de la experiencia, aunque sí se han editado manualmente una parte de los códigos.
 
-Referencias y recursos: 
+* **Propuestas de mejora**: La adición de un modo difícil con más historia para los amantes de los puzzles, mejoras en los efectos de luz y sonido, resolución de pantalla, un apartado visual algo más complejo, y música/efectos sonoros creados específicamente para cada situación y estancia, con la finalidad de transmitir una atmósfera clara y desconocida al jugador.
 
-* Artículos ..  
-* Productos utilizados  
-* Propuestas de me
-
-(...)
-
-
-
-
+* **Posible interés del proyecto**: Colaboradores de videojuegos indie podrían tener interés en el proyecto. En un futuro, se haría una parte del videojuego en forma de crowdsourcing, considerando las aportaciones de los fans e introduciéndolas en la experiencia. Si el proyecto consigue ser más grande, por supuesto, se haría una campaña de crowdfunding en Kickstarter o IndieGogo para recaudar fondos y realizar un juego entero y realizado profesionalmente. Los ingresos que proporcione la experiencia se basan, por lo general, en donaciones que permite la plataforma de Itch.io a través de PayPal.
 
 
 ----
 
 **Referencias y recursos utilizados** :
 
-* [Proceso UX](https://uxmastery.com/resources/process/)
-* [Diseño de Experiencias UX](http://www.nosolousabilidad.com/articulos/uxd.htm) 
-* [Métodos UX](https://mgea.github.io/UX-DIU-Checklist/index.html) 
-* [MuseMap: ejemplo de experiencia UX](https://blog.prototypr.io/musemap-street-art-app-ux-case-study-9bec6a99823b) 
-* (...) 
-
-(...)
-* (Artículos ..  )
-* (Productos utilizados ) 
-* (Recursos tipo Imágenes, videos , etc.) 
-
-
-
-
-
-
-
-
-
-
-
+* [RPG Maker MV](https://www.rpgmakerweb.com/products/rpg-maker-mv)
+* [Adobe Photoshop](https://www.adobe.com/products/photoshop.html)
+* [Aseprite](https://www.aseprite.org)
+* [Soundraw](https://soundraw.io)
+* [Dafont.com](https://www.dafont.com/es/bitmap.php)
+* [Itch.io: modelos de personaje](https://oceansdream.itch.io/nostalgia-vx-heroes)
+* [Itch.io: Tilesets](https://onimaru.itch.io) 
+* [Foros RPG Maker: Efectos de luz](https://forums.rpgmakerweb.com/index.php?threads/khas-advanced-lighting-v4-2-ultra-now-with-real-time-shadows.77679/) 
+* [Foros RPG Maker: Título personalizado](https://forums.rpgmakerweb.com/index.php?threads/galvs-custom-title.63507/) 
 
