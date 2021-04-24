@@ -46,13 +46,13 @@ Metodología de desarrollo: Diseño de contenidos digitales mediante estrategia 
 **Investigación de campo**   Desk research propuestas inspiradoras para el proyecto
 
 Mis inspiraciones se basan en referencias a otros juegos del mismo estilo, tanto en temática/historia como en estilo visual.
-* UNDERTALE: Juego indie muy popular por su historia, rompe la cuarta pared y artísticamente es una gran influencia para Ayden.
-* LISA: The Painful: Realizado con RPG Maker, el uso que hace de sus herramientas me ha resultado inspirador para el prototipo.
-* NieR:Automata: Inspración temática. Sus temas giran en torno al existencialismo, y los diálogos llaman a la reflexión vital y al sentido que le damos a nuestra vida.
-* Limbo: Su concepto e iluminación me han servido de inspiración para crear los espacios oscuros y fúnebres.
-* ICO: Útil por su forma minimalista de creación, llamada "diseño por sustracción"
-* Forager: Las ideas para puzzles son muy similares a las de Ayden.
-* The Legend of Zelda: El conceto de exploración y puzzles están sacados directamente del videojuego Majora's Mask, de la saga Zelda, y la idea de entrada a un mundo desconocido que transmite al jugador.
+* **UNDERTALE**: Juego indie muy popular por su historia, rompe la cuarta pared y artísticamente es una gran influencia para Ayden.
+* **LISA: The Painful**: Realizado con RPG Maker, el uso que hace de sus herramientas me ha resultado inspirador para el prototipo.
+* **NieR:Automata**: Inspración temática. Sus temas giran en torno al existencialismo, y los diálogos llaman a la reflexión vital y al sentido que le damos a nuestra vida.
+* **Limbo**: Su concepto e iluminación me han servido de inspiración para crear los espacios oscuros y fúnebres.
+* **ICO**: Útil por su forma minimalista de creación, llamada "diseño por sustracción"
+* **Forager**: Las ideas para puzzles son muy similares a las de Ayden.
+* **The Legend of Zelda**: El conceto de exploración y puzzles están sacados directamente del videojuego Majora's Mask, de la saga Zelda, y la idea de entrada a un mundo desconocido que transmite al jugador.
 
 **Necesidad/oportunidad** 
 
