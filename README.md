@@ -92,7 +92,9 @@ Capturas promocionales. Sacadas del propio videojuego realizado en RPG Maker MV.
 
 **Tema principal de cueva**
 
-https://chirb.it/mqhxGG
+		<iframe src="https://chirb.it/wp/mqhxGG" width=380 scrolling="NO" frameborder=0>If you can not see this chirbit, listen to it here https://chirb.it/mqhxGG</iframe>
+		<br/>
+		<a href="https://chirb.it/mqhxGG" title="Ayden - Cave Theme | social audio" style="font-family:helvetica,arial,sans-serif;font-size:8pt;text-align:left;margin:5px;">Check this out on Chirbit</a>
 	
 Uso de soundraw.io y Chirbit.
 
@@ -108,7 +110,7 @@ Perfil en Twitter: https://twitter.com/AydenVideogame
 
 ### Conclusiones y trabajo futuro
 
-* Grado de consecución del proyecto: 
+* **Grado de consecución del proyecto**: El proyecto funciona ahora mismo como un prototipo. La intención es obtener feedback respecto a los puzzles que se encuentran presentan en la cueva inicial y mejorar la calidad de los puzzles de aquí en adelante. También se encuentra en progreso un **modo difícil** de la primera estancia, pensado para jugarlo después de la primera partida.
 * Problemas identificados  (técnicos / sobre la idea inicial / planificacion… ) 
 * Propuestas de mejora (por qué consideras que merece la pena continuar)
 * Posible interés del proyecto (¿ Quien podría  colaborar / involucrarse en el proyecto? ¿viable?)
