@@ -1,7 +1,7 @@
 [
 null,
 {"id":1,"expanded":false,"name":"Dark Room","order":1,"parentId":0,"scrollX":2797,"scrollY":368},
-{"id":2,"expanded":true,"name":"Initial Cave","order":2,"parentId":0,"scrollX":1653,"scrollY":988},
+{"id":2,"expanded":true,"name":"Initial Cave","order":2,"parentId":0,"scrollX":1637,"scrollY":1020},
 {"id":3,"expanded":false,"name":"Forest","order":4,"parentId":0,"scrollX":659,"scrollY":376},
 {"id":4,"expanded":false,"name":"Cave subarea","order":3,"parentId":2,"scrollX":877,"scrollY":368}
 ]
